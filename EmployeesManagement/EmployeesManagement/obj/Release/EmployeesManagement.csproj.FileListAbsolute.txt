@@ -1,0 +1,14 @@
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\bin\Release\EmployeesManagement.exe.config
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\bin\Release\EmployeesManagement.exe
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\bin\Release\EmployeesManagement.pdb
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Release\EmployeesManagement.csproj.AssemblyReference.cache
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Release\EmployeesManagement.LoginForm.resources
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Release\EmployeesManagement.Administrator.resources
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Release\Employeesinquiry.inquiry.resources
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Release\EmployeesManagement.Input.resources
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Release\EmployeesManagement.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Release\EmployeesManagement.Search.resources
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Release\EmployeesManagement.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Release\EmployeesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Release\EmployeesManagement.exe
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Release\EmployeesManagement.pdb

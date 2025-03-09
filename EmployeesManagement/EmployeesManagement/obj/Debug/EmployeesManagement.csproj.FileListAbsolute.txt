@@ -1,0 +1,45 @@
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\bin\Debug\EmployeesManagement.exe.config
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\bin\Debug\EmployeesManagement.exe
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\bin\Debug\EmployeesManagement.pdb
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.csproj.AssemblyReference.cache
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.LoginForm.resources
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.exe
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.pdb
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.Administrator.resources
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.Input.resources
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Debug\Employeesinquiry.inquiry.resources
+C:\Users\Ahmed\source\repos\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.Search.resources
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\EmployeesManagement.exe.config
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\EmployeesManagement.exe
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\EmployeesManagement.pdb
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\EmployeesManagement.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\EmployeesManagement.LoginForm.resources
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\EmployeesManagement.Administrator.resources
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\Employeesinquiry.inquiry.resources
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\EmployeesManagement.Input.resources
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\EmployeesManagement.Properties.Resources.resources
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\EmployeesManagement.Search.resources
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\EmployeesManagement.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\EmployeesManagement.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\EmployeesManagement.exe
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\EmployeesManagement.pdb
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\System.Buffers.dll
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\System.Memory.dll
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\System.Buffers.xml
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\System.Memory.xml
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\Employee.F1F66B68.Up2Date
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\EmployeesManagement.Log_in_to_SQLConfigrtion.resources
+C:\Users\USER\Downloads\EmployeesManagement\EmployeesManagement - Copy (2)\EmployeesManagement\obj\Debug\EmployeesManagement.DataBaseConfigrtion.resources

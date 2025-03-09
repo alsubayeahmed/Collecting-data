@@ -1,0 +1,9 @@
+<root>
+  <server_name>DESKTOP-GBO380T</server_name>
+  <database_name>Administratordb</database_name>
+  <user_id>
+  </user_id>
+  <password>
+  </password>
+  <Trusted_Connection>true</Trusted_Connection>
+</root>

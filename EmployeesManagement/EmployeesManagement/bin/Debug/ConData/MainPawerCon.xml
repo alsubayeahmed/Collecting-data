@@ -1,0 +1,7 @@
+<root>
+  <server_name>192.168.10.90</server_name>
+  <database_name>ManPower</database_name>
+  <user_id>dic2026</user_id>
+  <password>Dic_IT@25</password>
+  <Trusted_Connection>false</Trusted_Connection>
+</root>
